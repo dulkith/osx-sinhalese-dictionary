@@ -34,7 +34,5 @@ Now you're set to use the dictionary.
 - Bhagya Nirmaan Silva
 
 ### Author
-Bhagya Nirmaan Silva (http://www.about.me/bhagyas)
-
 Made with love in Sweden.
 <3
